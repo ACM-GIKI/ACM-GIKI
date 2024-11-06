@@ -97,8 +97,5 @@ Let’s code, learn, and grow together!
 
 ## 📫  Contact Us 
 
-Have questions or ideas to share? Reach out to us at [acmgiki1@gmail.com](mailto:acmgiki1@gmail.com). We’re always eager to connect with tech enthusiasts and potential collaborators!
+**Got any queries or cool ideas to share? Hit us up at acmgiki1@gmail.com. We’re always open to chatting with fellow tech enthusiasts and potential collaborators!**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="ACM GIKI Animated Banner"/>
-
-Thank you for visiting our profile! Whether you're here to learn, collaborate, or innovate, we're excited to have you on board. [Follow ACM GIKI](https://github.com/ACM-GIKI) for the latest updates and project releases!
