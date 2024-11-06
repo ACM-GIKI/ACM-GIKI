@@ -1,4 +1,5 @@
-# Welcome to ACM GIKI's Official GitHub 
+
+![ACM GIKI Banner](assets/banner.png)
 
 <br>
 
