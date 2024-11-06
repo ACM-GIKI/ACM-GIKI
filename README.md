@@ -2,47 +2,100 @@
 <img src="assets/banner.png" alt="ACM GIKI Banner" height="500" width="100%">
 
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="ACM GIKI Animated Banner"/>
+
+# <div align="center"><strong>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&width=1000&height=60&lines=Welcome+to+ACM+GIKI's+Official+GitHub&center=true&vCenter=true&color=00FFFF)](https://git.io/typing-svg)</strong></div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="ACM GIKI Animated Banner"/>
+
 
 ## About Us 
 
-ACM GIKI is the official student chapter of the Association for Computing Machinery (ACM) at Ghulam Ishaq Khan Institute. Our mission is to promote excellence in the field of computing through innovative projects, skill-building sessions, and collaborative activities. We bring together a community of tech enthusiasts eager to learn, build, and create solutions that make a real impact.
+The **ACM GIKI Chapter** at Ghulam Ishaq Khan Institute is dedicated to fostering a thriving community of future tech leaders. As a chapter of the world-renowned **Association for Computing Machinery (ACM)**, we offer a dynamic platform for students passionate about computing to collaborate, innovate, and grow through impactful projects and hands-on experiences.
 
-## Featured Projects 🔍
+We are here to inspire and support learners and innovators, aiming to make a real impact through technology and community.
 
-Explore our latest projects (available soon):
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="ACM GIKI Animated Banner"/>
+
+
+## Featured Projects
+
+Explore some of our exciting projects currently under development! These will be made public soon, so stay tuned for updates:
+
 - **AI Influencer** 🤖  
-  Using AI to generate engaging content inspired by influential personalities.
+  A cutting-edge project using AI to generate engaging content inspired by influential personalities.
+
 - **Automated Certificate Distribution** 📜  
-  Streamlining certificate generation and distribution for events and workshops.
+  Streamlining the generation and distribution of certificates for events and workshops.
+
 - **Chat Bot** 💬  
-  An adaptive bot designed to enhance user interactions in various contexts.
+  An adaptive chatbot designed to enhance user engagement and interactions.
+
 - **Society Election System** 🗳️  
-  A secure platform for fair and transparent society elections.
+  A secure, fair platform for managing society elections.
 
-> *Note:* These projects are currently under development and will be made public shortly. Once live, we invite everyone to explore and contribute, regardless of ACM GIKI membership status!
-
-<br>
-
-## Connect & Contribute 🤝
-
-- 🏫 For all contributors: Our repositories are open to anyone interested in contributing to meaningful tech solutions. We encourage collaboration and welcome both society members and the broader tech community.
-- 🔄 Contribution Guidelines: Please review and follow our generic [Contribution Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) to ensure consistency and quality in all project contributions.
+> **Note**: These projects are currently private but will be made public soon! We invite everyone—ACM GIKI members and the broader community—to explore and contribute once they’re live.
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="ACM GIKI Animated Banner"/>
+
+## 🤝 Connect & Contribute
+
+Our GitHub repositories are open to all who share a passion for technology and want to contribute to meaningful projects. We value collaboration and welcome input from both society members and the wider tech community.
+
+- **Contribution Guidelines**: Please make sure to follow our [Contribution Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) for consistent and high-quality contributions.
+
+Let’s code, learn, and grow together!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="ACM GIKI Animated Banner"/>
+
+# <div align="center"><strong>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&width=1000&height=60&lines=Stay+Connected&center=true&vCenter=true&color=00FFFF)](https://git.io/typing-svg)</strong></div>
 
 
-## Let's Code Together! 🌐
+<div align="center">
+  <table>
+    <tr>
+      <td style="border: none; padding-right: 10px;">
+        <a href="https://www.instagram.com/acm.giki/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50" />
+        </a>
+      </td>
+      <td style="border: none;">Follow us on Instagram for the latest updates and event highlights!</td>
+    </tr>
+    <tr>
+      <td style="border: none; padding-right: 10px;">
+        <a href="https://www.facebook.com/profile.php?id=100088035910344">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50" />
+        </a>
+      </td>
+      <td style="border: none;">Like our Facebook page and stay connected with the ACM GIKI community!</td>
+    </tr>
+    <tr>
+      <td style="border: none; padding-right: 10px;">
+        <a href="https://www.linkedin.com/company/acm-student-giki-chapter/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" />
+        </a>
+      </td>
+      <td style="border: none;">Follow us on LinkedIn for professional networking and career opportunities!</td>
+    </tr>
+    <tr>
+      <td style="border: none; padding-right: 10px;">
+        <a href="https://www.acmgiki.org/">
+          <img src="https://www.svgrepo.com/show/450458/link.svg" alt="Website" width="50" height="50" />
+        </a>
+      </td>
+      <td style="border: none;">Visit our official website for more information about ACM GIKI and our initiatives.</td>
+    </tr>
+  </table>
+</div>
 
-Our Profile is a hub for tech enthusiasts to come together, share knowledge, and create real-world solutions. We believe in empowering our members and contributors to explore, innovate, and make a positive impact on the field of computing.
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="ACM GIKI Animated Banner"/>
 
-## Connect with Us 📲
+## 📫  Contact Us 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/acm.giki/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088035910344)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/company/acm-student-giki-chapter/)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://www.acmgiki.org/)
+**Got any queries or cool ideas to share? Hit us up at acmgiki1@gmail.com. We’re always open to chatting with fellow tech enthusiasts and potential collaborators!**
 
----
