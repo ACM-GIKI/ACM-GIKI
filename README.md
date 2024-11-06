@@ -1,5 +1,6 @@
 
-<img src="assets/banner.png" alt="ACM GIKI Banner" style="width:100%;">
+<img src="assets/banner.png" alt="ACM GIKI Banner" height="500" width="100%">
+
 
 <br>
 
